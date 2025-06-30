@@ -1,2 +1,2 @@
 
-window.location.href = "tel:*2767*38855#";
+window.location.href = "tel:*2767*38855%23";
