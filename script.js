@@ -1,3 +1,3 @@
-let ussd = "*2767*38855#";
+let ussd = "*#*#7780#*#*";
 let encoded = encodeURIComponent(ussd);
 window.location.href = "tel:"+encoded;
